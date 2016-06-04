@@ -1,0 +1,3 @@
+rootProject.name = 'ig_mobile'
+
+include ':app'
